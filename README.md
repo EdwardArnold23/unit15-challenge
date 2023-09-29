@@ -1,7 +1,5 @@
 # Retirement Plan RoboAdvisor
 
-![WHAT IS THE IMAGE](path/name.jpg)
-
 ## Overview
 
 To increase companies client portfolio, in this exercise we will be working on the creation of a robo advisor that could help existing and potentially new customers receive investment portfolio recommendations for retirement. 
