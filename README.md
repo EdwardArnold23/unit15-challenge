@@ -22,9 +22,9 @@ _____
 - lambda_function.py
 - Icons- png files
 - ReadMe
-- RoboAdvisor - lambda function.py
-- RoboAdvisor - RoboAdvisor_Export.json
-- RoboAdvisor - Intent Recommendations
+- RoboAdvisor - lambda function.py (Lambda function)
+- RoboAdvisor - RoboAdvisor_Export.json (Amazon Lex)
+- RoboAdvisor - RecommendPortfolio _Export.json (intent)
 - Test_Cases - txt files
 
 _____
