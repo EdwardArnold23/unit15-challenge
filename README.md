@@ -24,6 +24,7 @@ _____
 - ReadMe
 - RoboAdvisor - lambda function.py
 - RoboAdvisor - RoboAdvisor_Export.json
+- RoboAdvisor - Intent Recommendations
 - Test_Cases - txt files
 
 _____
